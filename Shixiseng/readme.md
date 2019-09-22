@@ -9,3 +9,6 @@
   #怎么看到映射关系呢？：下载FontCreater，把woff文件拖进去，就会看到对应关系。打开xml文件可以看到网页密文和字体密文的映射关系。
 
   #理论上，这种点阵文字破解总要手动设置字典，所以如果他后台的woff文件时多个或者是随机，那就比较麻烦了，不过我还没发现这种情况。
+  
+   ![Alt text](FontCreater.png)
+   ![Alt text](coderesult.png)
